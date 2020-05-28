@@ -1,3 +1,14 @@
 {
-	"prefix": "!"
+	"prefix": "!",
+	"roles": [
+		"psychology",
+		"biology",
+		"physics",
+		"statistics", 
+		"mathematics",
+		"computer science",
+		"economics", 
+		"epidemiology", 
+		"gamers"
+	]
 }
